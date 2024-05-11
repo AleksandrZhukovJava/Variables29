@@ -65,6 +65,6 @@ public class Main {
 
         var newWorkerAmount = oldWorkersAmount + 94;
         var newOneWorkerTimeAmount = allTimeAmount / newWorkerAmount;
-        System.out.println("«Если в компании работает " + newWorkerAmount + " человек, то всего " + newOneWorkerTimeAmount + " часа работы может быть поделено между сотрудниками»");
+        System.out.println("«В компании работает " + newWorkerAmount + " человек, то всего " + newOneWorkerTimeAmount + " часа работы может быть поделено между сотрудниками»");
     }
 }
